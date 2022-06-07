@@ -1,0 +1,4 @@
+aiogram==2.19
+python-dotenv~=0.19.2
+loguru==0.6.0
+SimpleQIWI
